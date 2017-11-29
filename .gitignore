@@ -1,4 +1,4 @@
 /node_modules/*
-/electron_webrtc-darwin-x64/*
-/electron_webrtc-linux-x64/*
-/electron_webrtc-win32-x64/*
+/electron_skyway-darwin-x64/*
+/electron_skyway-linux-x64/*
+/electron_skyway-win32-x64/*
