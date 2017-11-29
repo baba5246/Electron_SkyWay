@@ -1,5 +1,5 @@
 # Electron_SkyWay
-
+ElectronでSkyWayを使うサンプルアプリです。
 ```
 $ npm run build
 ```
