@@ -4,7 +4,7 @@ ElectronでSkyWayを使うサンプルアプリです。
 ```
 $ npm install
 ```
-を実行して依存ライブラリをインストールします。
+を実行してelectronとelectron-packagerをインストールします。
 ```
 $ npm run build
 ```
