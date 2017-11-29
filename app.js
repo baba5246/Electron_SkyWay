@@ -10,7 +10,7 @@ app.on('window-all-closed', _ => {
 
 app.on('ready', _ => {
     electron.session.defaultSession.webRequest.onBeforeSendHeaders((details, callback) => {
-        details.requestHeaders['Origin'] = '_://HOGE';
+        details.requestHeaders['Origin'] = 'electron://electron-skyway';
         callback({
             cancel: false,
             requestHeaders: details.requestHeaders

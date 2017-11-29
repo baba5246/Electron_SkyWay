@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Main",
             "program": "${workspaceRoot}/app.js",
-            "runtimeExecutable": "C:\\Users\\ritto\\AppData\\Roaming\\npm\\node_modules\\electron\\dist\\electron.exe",
+            "runtimeExecutable": "${workspaceRoot}/node_modules/electron/dist/electron.exe",
             "runtimeArgs": [
                 "--remote-debugging-port=9222"
             ],
