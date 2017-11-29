@@ -1,8 +1,11 @@
+body {
+    margin: 0;
+}
 .view-container {
+    margin-left: 20px;
     display: inline-block;
 }
 .view-container div {
-    margin: 0 10px;
     text-align: center;
 }
 video {
