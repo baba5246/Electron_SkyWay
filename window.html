@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+    <script type="text/javascript" src="https://cdn.webrtc.ecl.ntt.com/skyway-latest.js"></script>
+</head>
+
+<body>
+    <div>
+        <div class="view-container">
+            <div class="container-title">ローカルストリーム</div>
+            <video id="localView" autoplay></video>
+        </div>
+        <div class="view-container">
+            <div class="container-title">リモートストリーム</div>
+            <video id="remoteView" autoplay></video>
+        </div>
+    </div>
+    <div class="log-title">ログ</div>
+    <div id="msgContainer"></div>
+    <script src="window.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,4 @@
+/node_modules/*
+/electron_webrtc-darwin-x64/*
+/electron_webrtc-linux-x64/*
+/electron_webrtc-win32-x64/*
