@@ -17,7 +17,7 @@ ElectronでSkyWayを使うサンプルアプリ [Electron_Skyway](https://github
 
 Mac/Linux の例です。Windows も Powershell を使用すれば同様のことができると思います。
 
-1. Github からリポジトリをクローンしてきます。または、下記リンクにアクセスし Code > Download Zip でファイルをダウンロードしてください。
+1. Github からリポジトリをクローンしてきます。または、この Github 上の Code（緑のボタン） > Download Zip でファイルをダウンロードしてください。
 
     ```
     $ git clone https://github.com/baba5246/Electron_SkyWay.git
