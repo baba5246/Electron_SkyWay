@@ -74,10 +74,10 @@ Electron は Web コンテンツの表示・制御を行うレンダラープロ
 参考サイトなどを見ながら試行錯誤して見てください。
 
 1. `ipcMain` や `ipcRenderer` を用いて、`window.js` から `app.js` に情報を送る
-  * 参考：https://webbibouroku.com/Blog/Article/electron-ipc#outline__4_1
+    * 参考：https://webbibouroku.com/Blog/Article/electron-ipc#outline__4_1
 
 2. `app.js` でSota へのTCP通信クライアントを作り、情報を受け取ったら Sota に送信する
-  * Sota へのコマンドの送り方は `app.js` の下部にサンプルが書いてあるので、参考にしてください。
+    * Sota へのコマンドの送り方は `app.js` の下部にサンプルが書いてあるので、参考にしてください。
 
 ## Sota に送れるコマンド一覧
 
