@@ -17,16 +17,16 @@ ElectronでSkyWayを使うサンプルアプリ [Electron_Skyway](https://github
 
 Mac/Linux の例です。Windows も Powershell を使用すれば同様のことができると思います。
 
-1. Github からリポジトリをクローンしてきます
+1. Github からリポジトリをクローンしてきます。または、下記リンクにアクセスし Code > Download Zip でファイルをダウンロードしてください。
 
 　　```
 $ git clone https://github.com/baba5246/Electron_SkyWay.git
-$ cd Electron_Skyway
 ```
 
-2. ライブラリをインストールします
+2. Terminal または Powershell でフォルダ内に移動し、ライブラリをインストールします
 
   ```
+$ cd Electron_Skyway
 $ npm install
 ```
 
