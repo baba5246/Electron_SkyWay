@@ -2,7 +2,7 @@
 
 const {desktopCapturer} = require('electron');
 
-const SkyWay_ApiKey = 'ecaaa6e2-8288-40e8-87ed-708a73362414';
+const SkyWay_ApiKey = 'YOUR-SKYWAY-API-KEY';
 let peer = null;
 let peerList = null;
 

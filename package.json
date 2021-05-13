@@ -7,14 +7,15 @@
     "build": "electron-packager . --platform=darwin,win32,linux --arch=x64 --overwrite",
     "build_win": "electron-packager . --platform=win32 --arch=x64 --overwrite",
     "build_linux": "electron-packager . --platform=linux --arch=x64 --overwrite",
-    "build_mac": "electron-packager . --platform=darwin --arch=x64 --overwrite"
+    "build_mac": "electron-packager . --platform=darwin --arch=x64 --overwrite",
+    "start": "electron ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "electron": "^1.8.4",
-    "electron-packager": "^11.0.1"
+    "electron": "^5.0.6",
+    "electron-packager": "^15.1.0"
   }
 }
